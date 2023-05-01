@@ -6,7 +6,7 @@ Hello, I'm passionate and dedicated student at the University of BioBio. As I ne
 
 - 🔭 I’m currently working on my thesis project on machine learning with ARPN systems.
 - 🌱 I’m currently learning about machine learning deep learning, an area in which I am very interested.
-- ❤  I’m fond of computers and I am willing to learn any area that catches my attention.
+- ❤ I'm passionate about computers and I'm willing to learn any area that piques my interest.
 
 
 ## 🛠 Skills
