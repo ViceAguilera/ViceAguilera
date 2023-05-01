@@ -21,4 +21,4 @@ Hello, I'm passionate and dedicated student at the University of BioBio. As I ne
 
 | Cumputer Vision       | 
 | :---                  | 
-| ![OpenCV](https://img.shields.io/badge/Opencv-20232A?style=for-the-badge&logo=opencv&logoColor=61DAFB)   ![Mediapipe](https://img.shields.io/badge/Mediapipe-20232A?style=for-the-badge&logo=google&logoColor=61DAFB)   |        
+| ![OpenCV](https://img.shields.io/badge/Opencv-20232A?style=for-the-badge&logo=opencv&logoColor=61DAFB)   ![Mediapipe](https://img.shields.io/badge/Mediapipe-20232A?style=for-the-badge&logo=google&logoColor=61DAFB)  |        
