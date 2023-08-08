@@ -7,7 +7,7 @@ Hello, I'm passionate and dedicated student at the University of BioBio. As I ne
 - 🔭 I’m currently working on my thesis project on machine learning with ARPN systems.
 - 🌱 I’m currently learning about machine learning deep learning, an area in which I am very interested.
 - ❤  I’m very fond of computers and I am willing to learn any area that catches my attention.
-
+- 📢 I am one of the founders and manager of the official organization of my university. Check it out! => [https://github.com/ubiobio](https://github.com/ubiobio)
 
 
 ## 🛠 Skills
