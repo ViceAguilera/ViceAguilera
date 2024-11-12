@@ -1,5 +1,5 @@
 
-# Hi, I'm Vicente Aguilera! 👋 
+# Hi, I'm Vicente Aguilera! 👋 😘
 
 I'm a dedicated software developer graduated from the University of BioBio. I have gained valuable experience in the fields of web development, both frontend and backend, and deep learning.
 
