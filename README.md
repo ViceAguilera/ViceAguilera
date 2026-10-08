@@ -45,14 +45,28 @@ I'm a dedicated software developer graduated from the University of Bío-Bío. I
 
 ### 🧰 Also worked with
 
-| Languages | Frontend | Backend | Data | Testing & DevOps |
-| --- | --- | --- | --- | --- |
-| <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" title="Java"> <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript"> <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python"> | <img src="https://skillicons.dev/icons?i=angular" width="48" alt="Angular" title="Angular"> <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" title="Next.js"> <img src="https://skillicons.dev/icons?i=svelte" width="48" alt="SvelteKit" title="SvelteKit"> <img src="https://skillicons.dev/icons?i=astro" width="48" alt="Astro" title="Astro"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" title="Tailwind CSS"> <img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite" title="Vite"> | <img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot" title="Spring Boot"> <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" title="Node.js"> <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express" title="Express"> <img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" title="FastAPI"><br><img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" title="OpenAPI"> | <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" title="MySQL"> <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" title="MongoDB"> <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" title="Redis"> <img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" title="SQLite"><br><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server" title="SQL Server"> <img src="https://img.shields.io/badge/SAP_HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP HANA" title="SAP HANA"> | <img src="https://skillicons.dev/icons?i=vitest" width="48" alt="Vitest" title="Vitest"> <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions"> <img src="https://skillicons.dev/icons?i=nginx" width="48" alt="Nginx" title="Nginx"> <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git"><br><img src="https://img.shields.io/badge/RSpec-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="RSpec" title="RSpec"> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright" title="Playwright"> <img src="https://img.shields.io/badge/Supertest-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Supertest" title="Supertest"> |
-
-### 👁️ Computer Vision
-
-<img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV" title="OpenCV"> <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python"><br>
-<img src="https://img.shields.io/badge/Ultralytics-042AFF?style=flat-square&logo=ultralytics&logoColor=white" alt="Ultralytics" title="Ultralytics"> <img src="https://img.shields.io/badge/YOLOv11-111F68?style=flat-square" alt="YOLOv11" title="YOLOv11"> <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white" alt="Roboflow" title="Roboflow">
+<table>
+  <tr>
+    <th width="33%">Languages</th>
+    <th width="33%">Frontend</th>
+    <th width="33%">Backend</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" title="Java"> <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" title="JavaScript"> <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" title="Python"></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=angular" width="40" alt="Angular" title="Angular"> <img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" title="Next.js"> <img src="https://skillicons.dev/icons?i=svelte" width="40" alt="SvelteKit" title="SvelteKit"> <img src="https://skillicons.dev/icons?i=astro" width="40" alt="Astro" title="Astro"> <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS" title="Tailwind CSS"> <img src="https://skillicons.dev/icons?i=vite" width="40" alt="Vite" title="Vite"></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=spring" width="40" alt="Spring Boot" title="Spring Boot"> <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" title="Node.js"> <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" title="Express"> <img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI" title="FastAPI"><br><img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" title="OpenAPI"></td>
+  </tr>
+  <tr>
+    <th width="33%">Data</th>
+    <th width="33%">Testing & DevOps</th>
+    <th width="33%">Computer Vision</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" title="MySQL"> <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" title="MongoDB"> <img src="https://skillicons.dev/icons?i=redis" width="40" alt="Redis" title="Redis"> <img src="https://skillicons.dev/icons?i=sqlite" width="40" alt="SQLite" title="SQLite"><br><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server" title="SQL Server"> <img src="https://img.shields.io/badge/SAP_HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP HANA" title="SAP HANA"></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=vitest" width="40" alt="Vitest" title="Vitest"> <img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions" title="GitHub Actions"> <img src="https://skillicons.dev/icons?i=nginx" width="40" alt="Nginx" title="Nginx"> <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" title="Git"><br><img src="https://img.shields.io/badge/RSpec-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="RSpec" title="RSpec"> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright" title="Playwright"> <img src="https://img.shields.io/badge/Supertest-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Supertest" title="Supertest"></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=opencv" width="40" alt="OpenCV" title="OpenCV"> <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" title="Python"><br><img src="https://img.shields.io/badge/Ultralytics-042AFF?style=flat-square&logo=ultralytics&logoColor=white" alt="Ultralytics" title="Ultralytics"> <img src="https://img.shields.io/badge/YOLOv11-111F68?style=flat-square" alt="YOLOv11" title="YOLOv11"> <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white" alt="Roboflow" title="Roboflow"></td>
+  </tr>
+</table>
 
 ## 🔗 Links
 
