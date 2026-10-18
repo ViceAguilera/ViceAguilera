@@ -26,7 +26,7 @@ I'm a dedicated software developer graduated from the University of Bío-Bío. I
 | **[TiroLab](https://ragnarok.nexusone.cl)** | Archery training platform with analytics and real-time coaching. | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Live](https://img.shields.io/badge/live-2ea44f?style=flat-square) |
 | **Prioro Food** | SaaS for food businesses: orders, inventory, POS and real-time kitchen. | ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![In development](https://img.shields.io/badge/in%20development-dbab09?style=flat-square) |
 
-<summary><h3>🧪 Personal projects</h3></summary>
+### 🧪 Personal projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -35,7 +35,6 @@ I'm a dedicated software developer graduated from the University of Bío-Bío. I
 | **[ReviewBot](https://github.com/ViceAguilera/ReviewBot)** | Discord bot to log and share restaurant reviews with slash commands. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
 | **BarberTree** | Barbershop website with a haircut lookbook and online booking by email. | ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 
-</details>
 
 ## 🛠 Stack
 
